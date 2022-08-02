@@ -1,8 +1,9 @@
 {
-  "name": "react-native-rename-69",
+  "name": "MMbiser/react-native-rename",
   "version": "3.0.0",
   "description": "Rename react-native app with just one command",
   "main": "lib/index.js",
+  "bin": "lib/index.js",
   "scripts": {
     "test": "jest",
     "build": "babel src --out-dir lib",
@@ -35,7 +36,6 @@
   ],
   "author": "June Domingo <junedomingo@gmail.com>",
   "license": "MIT",
-  "bin": "lib/index.js",
   "bugs": {
     "url": "https://github.com/junedomingo/react-native-rename/issues"
   },
