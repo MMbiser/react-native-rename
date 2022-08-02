@@ -1,5 +1,5 @@
 {
-  "name": "@MMbiser/react-native-rename",
+  "name": "@mmbiser/react-native-rename",
   "version": "3.0.0-alpha",
   "description": "Rename react-native app with just one command",
   "main": "lib/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MMbiser/react-native-rename.git#v3.0.0-alpha"
+    "url": "git+https://github.com/MMbiser/react-native-rename.git"
   },
   "keywords": [
     "react-native",
