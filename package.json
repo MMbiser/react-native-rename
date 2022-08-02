@@ -36,7 +36,7 @@
   "author": "June Domingo <junedomingo@gmail.com>",
   "license": "MIT",
   "bin": {
-    "react-native-rename": "lib/index.js"
+    "MMbiser/react-native-rename": "lib/index.js"
   },
   "bugs": {
     "url": "https://github.com/junedomingo/react-native-rename/issues"
